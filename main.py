@@ -1,7 +1,6 @@
 import os
 import discord
 from discord.ext import commands,tasks
-from keep_alive import keep_alive
 import requests
 from bs4 import BeautifulSoup
 import asyncio
